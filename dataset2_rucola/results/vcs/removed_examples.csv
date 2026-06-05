@@ -1,0 +1,993 @@
+﻿text,label,error_type,reason,votes
+Он отличался большими способностями из своих сверстников.,0,Syntax,diff_target_confirmed,2
+"Мы собрались вместе, чтобы все разобраться в этом деле.",0,Syntax,diff_target_confirmed,2
+Трон достался убийце своего брата.,0,Syntax,diff_target_confirmed,2
+"Если ты будешь решать любую из этих задач, то пользуйся аналитическими уравнениями.",0,Semantics,diff_target_confirmed,2
+"Я случайно стоял поодаль и слышал, что он сказал.",0,Semantics,diff_target_confirmed,3
+Никого не было холодно.,0,Syntax,diff_target_confirmed,2
+"Первый огонек блеснул вдали, на противоположной горе, в одиноком домике поблизости от шлагбаума.",0,Semantics,diff_target_confirmed,2
+"Трое вакуумщиков действительно ходили как пленные звери рядом со своими насосами — у них был срочный заказ, и их уже вторые сутки не пускали спать.",0,Semantics,diff_target_confirmed,2
+Выстраивать на столь дрянном фундаменте всякие имперские конструкции крайне опрометчиво.,0,Semantics,diff_target_confirmed,2
+Мы имели возможность работать каждому со своим материалом.,0,Syntax,diff_target_confirmed,2
+Резко он не затормозил.,0,Semantics,diff_target_confirmed,3
+Все утро он был раздражителен.,0,Semantics,diff_target_confirmed,2
+Костюма не было в химчистке два года.,0,Semantics,diff_target_confirmed,2
+"Иван, к сожалению, в отпуске?",0,Semantics,diff_target_confirmed,3
+Моя шутка его обидела.,1,0,same_target_duplicate,1
+Я предпочитаю воздерживаться от всякого вмешательства.,1,0,same_target_duplicate,0
+"Каждое утро мимо нас по коридору проносили большие термоса и корзинки с провиантом для наркома на случай, если он в обеденное время окажется здесь.",0,Morphology,diff_target_confirmed,2
+"Кстати, не случайно первым указом преемника было освобождение Ельцина и его семьи от ответственности за какие-либо, совершенные в бытность на посту президента.",0,Semantics,diff_target_confirmed,2
+Маша сидела поодаль от мужа и читала.,0,Semantics,diff_target_confirmed,3
+У этой комнаты пять метров в ширину.,0,Semantics,diff_target_confirmed,3
+Многие млекопитающиеся (а звери ― это как раз и есть млекопитающиеся животные) кусают очень похоже на нас с вами.,0,Morphology,diff_target_confirmed,2
+Вы одни показались мне веселым.,0,Syntax,diff_target_confirmed,2
+"Она долго бежала рядом с забором, а потом повернула налево.",0,Semantics,diff_target_confirmed,3
+"Я знаю, что он, несомненно, прав.",0,Semantics,diff_target_confirmed,3
+"Напрасно вы думаете, что вы здоровы, у вас есть нервное расстройство.",0,Semantics,diff_target_confirmed,2
+Возьмите из моего чемодана полотенце.,1,0,same_target_duplicate,1
+План полностью не продуман.,1,0,same_target_duplicate,0
+Баран пропал по вине пастухов.,1,0,same_target_duplicate,0
+Мне его няня передавала.,0,Semantics,diff_target_confirmed,2
+В машине сидело шесть человек.,1,0,same_target_duplicate,1
+"Безусловно, неожиданно автобус остановился.",0,Semantics,diff_target_confirmed,2
+Он резко не затормозил.,0,Semantics,same_target_duplicate,1
+Мой дом стоит на горе.,1,0,same_target_duplicate,1
+Я не воспринимаю такой музыки.,1,0,same_target_duplicate,1
+Солдаты грелись возле костров.,1,0,diff_target_confirmed,3
+"Вот теплятся желтые свечи, забытые в окне человека.",0,Semantics,same_target_duplicate,0
+В сражении у Гастингса англичане потерпели поражение.,0,Semantics,diff_target_confirmed,2
+Он мертвенно становится бледным.,0,Semantics,diff_target_confirmed,3
+Есть ли в поселке врач?,1,0,same_target_duplicate,0
+Ведь я тогда каждый день гулял с собакой.,1,0,same_target_duplicate,0
+Н.С. Михалков недавно еще раз выразил свое желание быть похоронен здесь.,0,Syntax,diff_target_confirmed,2
+Я не считаю уместным давать никакие указания.,0,Semantics,diff_target_confirmed,2
+"Возьми из моего кармана ключ, он мне мешает.",0,Semantics,diff_target_confirmed,2
+На заведующего самого поступают жалобы.,1,0,same_target_duplicate,1
+"Мне хватило двух минут, чтобы высказать все, что я о нем думаю.",1,0,same_target_duplicate,0
+"Не думаю, что мосты уже сняли.",1,0,same_target_duplicate,0
+Мешок весит меньше 50 кг.,1,0,same_target_duplicate,1
+"Бор рассказывал, что эта гипотеза была предложена Дираком в 1930 г.",1,0,same_target_duplicate,0
+Камень завалил вход в пещеру.,1,0,same_target_duplicate,0
+Начавшийся процесс его обращения надломился и прекратился трагически.,0,Semantics,diff_target_confirmed,3
+Ваше отсутствие не тормозило работу.,1,0,same_target_duplicate,1
+У магазина было много народу.,1,0,same_target_duplicate,1
+Уличных звуков не доносится сквозь двойные рамы.,0,Semantics,diff_target_confirmed,2
+Этот случай частично объясняет странности его поведения.,1,0,same_target_duplicate,0
+"Сомневаюсь, что она знает всякие детали.",0,Semantics,diff_target_confirmed,3
+"Я воспользовался перочинным ножом, чтобы разрезать колбасу.",1,0,same_target_duplicate,1
+Я рискую опозданием на семинар.,0,Semantics,diff_target_confirmed,3
+Он дал свое согласие.,1,0,same_target_duplicate,1
+"Мне не хватило двух минут, чтобы высказать все, что я о нем думаю.",1,0,same_target_duplicate,0
+Он отказывался от каких бы то ни было предложений.,1,0,same_target_duplicate,0
+Постарайся заметить вон ту звездочку над самой горой.,0,Semantics,diff_target_confirmed,3
+Из-за туч появилась луна.,1,0,same_target_duplicate,1
+"Он обещает прийти, но не пришел.",0,Semantics,diff_target_confirmed,3
+"Я, как только увидел пропажу, выпил и схватился за голову.",0,Semantics,diff_target_confirmed,2
+Он объяснил отсутствие Вани приходом Пети.,1,0,same_target_duplicate,0
+Пришел мужик в лес и рубил дрова.,0,Semantics,diff_target_confirmed,3
+Резко он не тормозит.,1,0,same_target_duplicate,1
+Это известие лишило меня сна.,1,0,same_target_duplicate,0
+Он поселился вдали от какого бы то ни было жилья.,1,0,same_target_duplicate,0
+Страны НАТО хотят взять с Ирана обязательство не применять ядерное оружие первый.,0,Syntax,diff_target_confirmed,2
+Это известие надолго лишает меня сна.,0,Semantics,diff_target_confirmed,2
+Сторонников новых будет искать.,1,0,same_target_duplicate,1
+"Он не поздравил ни с Новым годом, ни с Восьмым мартом, ни с днем рождения Валерки.",0,Morphology,diff_target_confirmed,2
+Тогда руководители NASA также сначала отрицали наличие всяких серьезных технологических проблем.,0,Semantics,diff_target_confirmed,2
+В путь-дорогу дальний я тебя отправлю.,0,Syntax,diff_target_confirmed,2
+Его принцип отвергает какое-либо облучение мозга.,0,Semantics,diff_target_confirmed,2
+Она приняла к себе ребенка.,0,Semantics,diff_target_confirmed,2
+"Особенно когда в полуторастах метрах позади лежал скелет ящера, убитого человеческим оружием.",0,Morphology,diff_target_confirmed,2
+Перемены в технической политике фирмы еще не начались.,1,0,same_target_duplicate,1
+Этого портрета здесь раньше не висело.,1,0,same_target_duplicate,0
+Мы первыми научились видеть дальше собственного порога и думать более шире родимой околицы.,0,Morphology,diff_target_confirmed,2
+У него на лице есть улыбка.,0,Semantics,diff_target_confirmed,3
+Какой-нибудь человек всегда должен об этом помнить.,0,Semantics,diff_target_confirmed,3
+Меня в этом доме никогда не будет.,1,0,same_target_duplicate,1
+Я понял его как военного.,0,Semantics,diff_target_confirmed,2
+Крепость все еще была окружена противником.,1,0,same_target_duplicate,0
+У тебя в голове есть каша.,0,Syntax,diff_target_confirmed,2
+Вход в пещеру заваливают камни.,1,0,same_target_duplicate,1
+Мешок не весит 50 кг.,1,0,same_target_duplicate,0
+Он живет в небольшом городке у Волги.,0,Semantics,diff_target_confirmed,3
+Он не должен делать полностью всю работу.,1,0,same_target_duplicate,0
+"Хорош, если ты станешь кандидатом наук.",0,Syntax,diff_target_confirmed,2
+"Когда у меня возникали некоторые сомнения, он всегда говорил очень убедительно.",1,0,same_target_duplicate,1
+"Занятий, я рад, не будет.",0,Semantics,diff_target_confirmed,3
+"Раньше она была в каком-то раздраженном состоянии, а потом успокоилась.",0,Semantics,diff_target_confirmed,3
+"Было в ней и скромность, и изящество, и достоинство.",0,Syntax,diff_target_confirmed,2
+"Я не могу ехать, у меня есть бабушка.",0,Semantics,diff_target_confirmed,3
+В моем кошельке есть масса денег.,1,0,same_target_duplicate,1
+Другие улики не остались.,0,Semantics,diff_target_confirmed,2
+Я этого не понял.,1,0,same_target_duplicate,1
+"Если что-нибудь случится не по нем, он вступает в бой.",1,0,same_target_duplicate,0
+Чиновник росчерком пера позволил им стать миллионерами.,1,0,diff_target_confirmed,2
+Звуков с улицы не доносится.,1,0,same_target_duplicate,1
+Мне слышится что-то родное.,1,0,same_target_duplicate,1
+"Я принимаю его таким, как он есть.",1,0,same_target_duplicate,1
+Он покупает несколько журналов.,0,Semantics,diff_target_confirmed,3
+Близ кресла на небольшом коврике лежала кошка.,0,Semantics,diff_target_confirmed,2
+Разве мосты еще не сняли?,1,0,same_target_duplicate,0
+"На ужин у нас огромный-огромный пирог с повидлой, сто котлет и мороженое.",0,Morphology,diff_target_confirmed,2
+Я не стирала полотенце.,1,0,same_target_duplicate,1
+"Кто писал ""Войну и мир""?",0,Semantics,diff_target_confirmed,3
+"Как я надеюсь, ты собрался?",0,Semantics,diff_target_confirmed,3
+Звуков с улицы не доносилось.,1,0,same_target_duplicate,1
+Сегодня в овощном были яблоки.,1,0,same_target_duplicate,1
+"Она попросила меня выяснить причины конфликта, сам не вмешиваясь в него.",0,Syntax,diff_target_confirmed,2
+Кто-нибудь из вас мог бы пойти туда.,1,0,same_target_duplicate,1
+"Погода, ей кажется, плохая.",0,Semantics,diff_target_confirmed,3
+Я имел с ним беседу только ради Вас.,0,Semantics,diff_target_confirmed,2
+Том не пытается вас впечатлять.,0,Morphology,diff_target_confirmed,3
+Последнее пять человек пришло.,0,Syntax,same_target_duplicate,0
+Илья и Света поцеловали друг друга.,1,0,same_target_duplicate,1
+"Ты тогда замечал, что он странно себя ведет?",0,Semantics,diff_target_confirmed,3
+В комнату вошел мой адвокат.,1,0,same_target_duplicate,1
+Возьми из моего кармана пакет и выброси в окно.,0,Semantics,diff_target_confirmed,2
+"Одним словом, мне невыразимо тяжело было иметь с ним всякие отношения.",0,Semantics,diff_target_confirmed,2
+"Мне давали квартиру поблизости от химического завода, но я отказался.",0,Semantics,diff_target_confirmed,2
+"И вручил мне обещанную купюру, которая позволила нам всю неделю мазать масло на хлеб.",1,0,same_target_duplicate,0
+"Я не сомневался, что операция, однако, увенчается успехом.",0,Semantics,diff_target_confirmed,2
+"Я хочу, чтобы они зашли, когда ты спрячешься.",1,0,diff_target_confirmed,2
+Он ест одну грушу.,0,Semantics,diff_target_confirmed,3
+"Она стояла так вблизи, что я ощущала запах ее духов.",0,Semantics,diff_target_confirmed,2
+На мгновение у нее острое желание бросить их ему в лицо.,0,Semantics,diff_target_confirmed,2
+Когда же выпадал этот снег?,0,Semantics,diff_target_confirmed,3
+Он ездит туда один.,1,0,same_target_duplicate,1
+"Естественно, коммерсанты категорически отрицают какую-либо связь между двумя фирмами.",1,0,same_target_duplicate,0
+Поселок расположен вдали от железных дорог.,1,0,same_target_duplicate,1
+В тот день он сидел дома ровно в шесть.,0,Semantics,diff_target_confirmed,3
+"Я хочу, чтобы они зайдут, а ты спрятался .",0,Syntax,diff_target_confirmed,2
+Однажды он был встречен ею принаряженной.,0,Syntax,diff_target_confirmed,2
+"Были в ней и скромность, и изящество, и достоинство.",1,0,same_target_duplicate,1
+Она с любопытством поглядывала на меня вблизи.,0,Semantics,diff_target_confirmed,3
+"Трудно себе представить, чтобы к 10 часам вечера они уже не выпили все шампанское.",1,0,same_target_duplicate,0
+По завершению эксперимента учёные публикуют аналитические отчеты.,0,Syntax,same_target_duplicate,0
+У нас в лесу есть озеро.,1,0,same_target_duplicate,1
+"Он ясно понимал, что сейчас от него требуется.",1,0,same_target_duplicate,0
+Ты взяла мне одну бутылку молока или две?,1,0,same_target_duplicate,0
+Категорически запрещалось вступать с ними во все разговоры.,0,Semantics,diff_target_confirmed,2
+Эта речка впадает в небольшое озеро.,1,0,same_target_duplicate,1
+Студент купил книгу у букиниста.,1,0,same_target_duplicate,1
+Сейчас картина была вывезена в Америку.,0,Semantics,diff_target_confirmed,3
+Так они и дали тебе эту премию!,1,0,same_target_duplicate,0
+Делай эту работу к понедельнику!,0,Semantics,diff_target_confirmed,2
+Я взял пылинку со шляпы.,0,Semantics,diff_target_confirmed,2
+Он страшно был в отчаянии.,0,Semantics,diff_target_confirmed,3
+"Наверное, я казался себе смешным.",0,Semantics,diff_target_confirmed,3
+"Я чувствую, что он прав.",1,0,same_target_duplicate,1
+У командира был обычай сам принимать все доклады.,0,Syntax,diff_target_confirmed,2
+Дерево над корнями было срублено.,0,Semantics,diff_target_confirmed,3
+Вместе с тем у нее не было никаких причин скрывать от меня что-либо.,1,0,same_target_duplicate,1
+У него было много любых дел.,0,Semantics,diff_target_confirmed,3
+Новых сторонников будет искать.,1,0,same_target_duplicate,0
+"Он был квартирмейстером и казначеем в Костромском пехотном полку, дослужился до штабс-капитана и вышел капитаном в отставку с шестистами рублями ассигнациями пенсии.",0,Morphology,diff_target_confirmed,2
+"Я видел желтое пятнышко, но не понял, что это оно.",0,Semantics,diff_target_confirmed,3
+"Порази толпу ужасом, который бы отнял какую-либо способность к сопротивлению.",0,Semantics,diff_target_confirmed,2
+Давным-давно они жили в Стрелецке.,1,0,same_target_duplicate,1
+Начальник заставлял его работать больному.,0,Syntax,diff_target_confirmed,2
+"Чтобы встать пораньше, надо завтра завести будильник.",1,0,same_target_duplicate,1
+Я нарезал колбасу перочинным ножом.,1,0,same_target_duplicate,0
+"Гость вошел в калитку, находившуюся около входа в лавку, и попал в квадратный небольшой дворик.",0,Semantics,diff_target_confirmed,2
+"Естественно, коммерсанты категорически отрицают всякую связь между двумя фирмами.",1,0,same_target_duplicate,0
+"За легкой стеной палатки, прямо возле моей головы, лежало гречишное поле.",0,Semantics,diff_target_confirmed,2
+Я своими близорукими глазами и то увидел.,1,0,diff_target_confirmed,2
+Нельзя не общаться с кем-нибудь.,1,0,same_target_duplicate,0
+Как мама потом нашла у дочки в шкафе этот свёрток с бельём и стала сама для неё вручную делать бельё маленьких размеров.,0,Morphology,diff_target_confirmed,2
+Я различаю вдали очертания снежных массивов.,1,0,same_target_duplicate,0
+Мне не нужно отдыхать.,1,0,same_target_duplicate,1
+Солдаты получили от командира приказ выдвигаться на позицию.,1,0,same_target_duplicate,1
+"Зато как никогда захотелось быть с Ангелиной, и это не из-за только упрямства, – поднялась в душе волна уверенности, что любит её.",0,Syntax,diff_target_confirmed,2
+"Я не принимаю его за крупного ученого, хотя и знаю, что это так.",0,Semantics,diff_target_confirmed,2
+У нас сейчас есть урок.,0,Semantics,diff_target_confirmed,3
+Мосты еще не сняли.,1,0,same_target_duplicate,1
+Ты купишь себе велосипед?,1,0,same_target_duplicate,0
+Вчера в два часа магазин закрыт.,0,Semantics,diff_target_confirmed,3
+А Матвей уже остался ― посуду мыл.,0,Semantics,diff_target_confirmed,2
+Книга была нарочно продана студенту букинистом.,1,0,same_target_duplicate,0
+Здесь никакие эмоции неуместны.,1,0,same_target_duplicate,0
+"А сапоги я вам блестящие принесу, ещё красивше ваших!",0,Morphology,diff_target_confirmed,2
+"Тут пара чулков барышниных, да наволочка, да два полотенца.",0,Morphology,diff_target_confirmed,3
+Так я ему и поверю!,1,0,same_target_duplicate,0
+Я всю косметику с каким бы то ни было ароматом убрала.,1,0,same_target_duplicate,0
+Этот аргумент был отвергнут большинством теоретиков.,1,0,same_target_duplicate,0
+После этого он утратил какой-либо интерес к происходящему.,0,Semantics,diff_target_confirmed,2
+После этого она получила к нему доверие.,0,Semantics,diff_target_confirmed,3
+"Занятий, мне жаль, не будет.",0,Semantics,diff_target_confirmed,3
+С тех пор в резерв были добавлены новые небольшие участки земли.,1,0,same_target_duplicate,0
+Он взял на себя управление имением.,1,0,same_target_duplicate,1
+Тут мы не вправе вступать в какую бы то ни было полемику.,1,0,same_target_duplicate,0
+Он вылил лейку воды на клумбу.,1,0,same_target_duplicate,0
+Он говорил об упразднении каких-либо званий.,0,Semantics,diff_target_confirmed,3
+Я не взяла ключи.,1,0,same_target_duplicate,1
+Такой мысли не возникает неожиданно.,0,Semantics,diff_target_confirmed,2
+Появились новые лекарственные препараты.,1,0,same_target_duplicate,1
+"А прочитая рассказ у Вас в 9-м номере, я хочу сходить к нему на могилу, положить цветы.",0,Morphology,diff_target_confirmed,2
+"Иван не знает, что занятия отменяются.",1,0,same_target_duplicate,1
+Попробоваем проследить биографию антиквариата как особой категории товаров.,0,Morphology,diff_target_confirmed,2
+Возле крайней избы поселка стояла баба в короткой исподнице.,1,0,same_target_duplicate,0
+В это время мы сидели у стола и обедали.,0,Semantics,diff_target_confirmed,3
+У него было много всяких дел.,1,0,diff_target_confirmed,2
+Я имею деньги в кармане.,0,Semantics,diff_target_confirmed,3
+Всего мы прошли пешком около пятиста километров.,0,Morphology,diff_target_confirmed,2
+"Он всегда говорил очень убедительно, а у меня возникали некоторые сомнения.",1,0,same_target_duplicate,1
+Эти студенты — сами сведущие в эскимосском языке.,1,0,same_target_duplicate,0
+"Я не принимаю то, как они живут.",0,Semantics,diff_target_confirmed,2
+Письмо оборвалось на полуслове.,1,0,same_target_duplicate,0
+"Как уверен Иван, изменения необходимы.",0,Semantics,same_target_duplicate,0
+Крепость все еще окружена противником.,1,0,same_target_duplicate,0
+"Мне сообщили об этих планах, и они понравились.",0,Syntax,diff_target_confirmed,3
+Хорошо бы он не выиграл снова.,1,0,same_target_duplicate,0
+"Они зайдут, а ты спрячешься.",1,0,same_target_duplicate,1
+Я читал около трех страниц.,0,Semantics,diff_target_confirmed,3
+"Студентам, самим хорошо знающим эскимосский язык, не разобрать здесь ни слова.",1,0,same_target_duplicate,0
+Каждый редактор читает по рукописи.,1,0,same_target_duplicate,0
+Чиновник росчерком пера позволил им стать миллионером.,0,Syntax,diff_target_confirmed,2
+"Я считаю, когда ты принял решение сесть за руль пьяный, ты уже преступник.",1,0,same_target_duplicate,0
+В данный момент я разговаривал с директором.,0,Semantics,diff_target_confirmed,3
+Я не люблю кого-либо.,0,Semantics,diff_target_confirmed,2
+Книга была с особой целью куплена студентом у букиниста.,1,0,same_target_duplicate,0
+Его приняли в партию.,1,0,same_target_duplicate,1
+Иван оставил надежду встретиться с тобой сам.,1,0,same_target_duplicate,1
+"Таким образом, нет дискуссий: эта задача требует непрерывной преданности и духа непрерывного самопожертвования его и его людей.",0,Hallucination,same_target_duplicate,1
+"Это то впечатление, которое вы хотите чтобы мы вынесли которое отсюда?",1,0,diff_target_confirmed,2
+"Если ты требуешь, то любой из нас ей поможет.",0,Semantics,diff_target_confirmed,3
+"Я сказал это, чтобы что-то сказать.",1,0,same_target_duplicate,1
+Сейчас как раз есть одно из занятий по английскому языку.,0,Semantics,diff_target_confirmed,2
+Ваше отсутствие не тормозило работы.,1,0,same_target_duplicate,1
+"Это движение, началось как-то самопроизвольно, почти стихийно, снизу, без какого-либо давления со стороны администрации.",1,0,same_target_duplicate,0
+"Все было тихо, и только где-то вдали шумели поезда.",1,0,same_target_duplicate,0
+Я был несколько раз в ихней квартире.,0,Morphology,diff_target_confirmed,3
+Сознание обывателя исключает какую бы то ни было симпатию к олигархам вообще и к Михаилу Ходорковскому в частности.,1,0,same_target_duplicate,0
+"Все было тихо, и только где-то вдалеке шумели поезда.",1,0,same_target_duplicate,1
+Павел Алексеевич уже перестал ждать всякого ответа.,0,Semantics,diff_target_confirmed,2
+Он не завязал ногу.,1,0,same_target_duplicate,0
+Вчера я была у мамы и получила от нее эту книгу.,0,Semantics,diff_target_confirmed,2
+"Никогда не знавшая семейного уюта Алена пригрелась рядом с Ниной Карповной, как бездомный котенок.",0,Semantics,diff_target_confirmed,2
+Иван не понимает мое желание идти на вечер один.,0,Syntax,diff_target_confirmed,3
+"Студенты, сами хорошо знающие эскимосский язык, не смогли разобрать здесь ни слова.",1,0,same_target_duplicate,0
+"Мне было неприятно помогать кому-нибудъ из них, но я все-таки помогал.",0,Semantics,diff_target_confirmed,2
+"Он прав, я думаю?",1,0,same_target_duplicate,1
+"Я хочу, чтобы они зайдут, когда ты спрячешься.",0,Syntax,same_target_duplicate,1
+Около села Покров наша машина вдруг испортилась.,1,0,same_target_duplicate,0
+Петя стучал ей в окно.,1,0,same_target_duplicate,0
+У него не было причин ничего менять.,0,Semantics,diff_target_confirmed,3
+Сторож наполнил бассейн водой.,1,0,same_target_duplicate,1
+Ребята накупили хорошую книгу.,0,Syntax,diff_target_confirmed,3
+В лесу около нашей деревни много грибов.,1,0,same_target_duplicate,1
+Под впечатлением от симфонии я захотел больше узнать о создателе.,0,Syntax,diff_target_confirmed,2
+Иван не может переплыть Москва-реку.,1,0,same_target_duplicate,0
+Это влияет на любые инициативы сдвига во всякую сторону.,0,Semantics,diff_target_confirmed,2
+"Мать взглянула на женщину, она была Самойлова.",0,Semantics,diff_target_confirmed,2
+Он сидел близко от меня и плакал.,0,Semantics,diff_target_confirmed,3
+Он был утешен чем-то.,1,0,same_target_duplicate,0
+"И каждый раз, когда раздавался любой звук, старуха вздрагивала.",0,Semantics,diff_target_confirmed,2
+Он рискует попасть за решетку.,1,0,same_target_duplicate,1
+"Конечно, против такой системы ценностей решительно ополчились совдеповские образованцы, отвергавшие какие-либо традиции, а тем более столь возвышенные.",0,Semantics,diff_target_confirmed,2
+Его еще не прочитало этой статьи.,0,Syntax,diff_target_confirmed,2
+"Ты, наконец, передавал ему мою книгу?",0,Semantics,diff_target_confirmed,2
+"Выяснилось, что он здесь.",1,0,same_target_duplicate,1
+С каким напряжением она была свидетелем этой сцены.,0,Semantics,diff_target_confirmed,2
+Мой паспорт не был в сумке.,0,Semantics,diff_target_confirmed,3
+Ваня не решил задачу.,1,0,same_target_duplicate,1
+Лена просит мужа позволить ей ездить туда одна.,0,Syntax,diff_target_confirmed,3
+Он сейчас трижды целует ее.,0,Semantics,diff_target_confirmed,2
+Берлиоз обнаружил солидную эрудицию.,1,0,same_target_duplicate,0
+Он выбирает смирную лошадь.,1,0,same_target_duplicate,0
+Я никогда не думал так и столько о какой-либо женщине.,1,0,same_target_duplicate,0
+Оправдываться мне не в чем.,1,0,same_target_duplicate,0
+Я обнаружил его лежащего одним на кровати.,0,Syntax,same_target_duplicate,1
+"Обвинив во всем сотрудников, он одного уволил, а другому объявил выговор.",1,0,same_target_duplicate,0
+"И Иван, я поступил в институт, очень обрадовался.",0,Syntax,diff_target_confirmed,3
+Скоро он не пришел.,1,0,same_target_duplicate,1
+"Они, если вы захотите, то вам все покажут.",0,Syntax,diff_target_confirmed,2
+Я хочу посоветоваться с кем-нибудь из хороших врачей.,1,0,same_target_duplicate,0
+Попробуй заметить вон ту звездочку над самой горой.,0,Semantics,diff_target_confirmed,2
+"Студенты, сами сведущие в эскимосском языке, не смогли разобрать здесь ни слова.",1,0,same_target_duplicate,0
+"Лицо ― длиньше, чем надо, а тело ― короче.",0,Morphology,diff_target_confirmed,2
+Я взяла лыжи напрокат.,1,0,same_target_duplicate,1
+"Он не такой человек, который женился, тем самым огорчив свою мать.",1,0,same_target_duplicate,0
+Сегодня отца еще не было дома.,0,Semantics,diff_target_confirmed,3
+Это обнажило мне суть явления.,0,Semantics,diff_target_confirmed,3
+Задавал ли он тебе всякие каверзные вопросы?,0,Semantics,diff_target_confirmed,3
+"Он понял, что она согласилась.",1,0,same_target_duplicate,1
+Каждого из них кто-то видел.,1,0,same_target_duplicate,1
+"Если он отказался, то он уже пожалел об этом.",1,0,same_target_duplicate,0
+Пианист сыграл сонату сам для себя.,1,0,same_target_duplicate,0
+Петя стучал в окно.,1,0,same_target_duplicate,0
+"В начале марта, несмотря на весну, намело столько снегу, что на расчистку дорог была направлена рота солдатов.",0,Morphology,diff_target_confirmed,2
+"Ее поклонник, как всегда, сидел около нее.",1,0,same_target_duplicate,1
+"Решая всякую частную задачу, надо думать о языке в целом.",0,Semantics,diff_target_confirmed,2
+Из-за раскрывшихся губ показался ряд блестящих зубов.,1,0,same_target_duplicate,0
+"Есть люди, которые не любят правду.",1,0,same_target_duplicate,0
+Стаканы будут ставить в шкаф.,1,0,same_target_duplicate,1
+Вчера я имела собрание.,0,Semantics,diff_target_confirmed,3
+"Вася сказал, что он купил мне какую-то книгу.",1,0,same_target_duplicate,1
+"Железнодорожники рисковали жизнью, защищая пассажира от вооруженных бандитов.",1,0,same_target_duplicate,0
+Камень закрывал вход в пещеру.,1,0,same_target_duplicate,1
+Брат надеется на поступление в университет.,1,0,same_target_duplicate,1
+Она живет в маленьком городе близ Курска.,0,Semantics,diff_target_confirmed,2
+"Собака уже несколько часов стояла рядом с облупившейся, грязной стеной, ожидая своего хозяина.",0,Semantics,diff_target_confirmed,2
+"Он всегда говорил очень убедительно, но у меня возникали некоторые сомнения.",1,0,same_target_duplicate,1
+Первое же сражение обнаружило его отчаянную храбрость.,1,0,same_target_duplicate,1
+Я могу что-нибудь для вас сделать хоть сейчас.,1,0,same_target_duplicate,1
+У кого-нибудь из моих малышей в кармане лежит горсть сладких вишней.,0,Morphology,diff_target_confirmed,2
+Я дал ему деньги.,1,0,same_target_duplicate,1
+В первом же сражении он обнаружил отчаянную храбрость.,1,0,same_target_duplicate,1
+Туда идти было поблизости.,0,Semantics,same_target_duplicate,1
+Он отрицает существование всяких планов на этот счет.,0,Semantics,diff_target_confirmed,2
+"Нельзя предать кого-нибудь, кто столько для тебя сделал.",0,Semantics,diff_target_confirmed,2
+Он давно не был в Москве.,1,0,same_target_duplicate,1
+"Я думаю, вы читали книгу Иванова.",1,0,same_target_duplicate,1
+"Я думаю, тебе больно идти.",1,0,same_target_duplicate,1
+Долгое время она звала сына к себе.,1,0,same_target_duplicate,1
+Он поел мяса сырым.,0,Syntax,diff_target_confirmed,3
+Ты взяла две бутылки молока или одну?,1,0,same_target_duplicate,0
+"Поехала она с тобой, дожидайся!",1,0,same_target_duplicate,0
+"Поскольку у меня возникали некоторые сомнения, он всегда говорил очень убедительно.",1,0,same_target_duplicate,1
+"Обнаружилось, что преступник на свободе.",1,0,same_target_duplicate,1
+"Съедена последняя пачка макаронов, а ты провалил вступительные экзамены в вуз и надежды на стипендию разбились.",0,Morphology,diff_target_confirmed,2
+Павел Алексеевич уже перестал ждать какого бы то ни было ответа.,1,0,same_target_duplicate,0
+В этот момент он начал речь приветствием.,0,Semantics,diff_target_confirmed,2
+Гессен не был виновен в каких-либо преступлениях.,1,0,same_target_duplicate,0
+Мне предложили написать на нее рецензию.,1,0,same_target_duplicate,1
+Вы один показались мне веселым.,1,0,diff_target_confirmed,2
+"И на всех проходящих мимо напал такой страх, и все, кто был близ меня пустились бежать.",0,Semantics,diff_target_confirmed,2
+"Несмотря на какую боль, Иван пришел на спектакль?",1,0,same_target_duplicate,0
+"Нельзя не обратиться ни к кому, когда чувствуешь себя таким не счастным.",0,Semantics,diff_target_confirmed,2
+Это известие надолго лишило меня сна.,1,0,same_target_duplicate,0
+"Она стояла так рядом, что я ощущала запах ее духов.",0,Semantics,diff_target_confirmed,2
+Такой странной показалась мне его просьба.,1,0,same_target_duplicate,0
+Установка не работала три года.,1,0,same_target_duplicate,1
+Я предпочитаю воздерживаться от какого-либо вмешательства.,1,0,same_target_duplicate,0
+Каждую рукопись читало по редактору.,1,0,same_target_duplicate,1
+"Возле самого его лица блестели два огромных глаза, и эти глаза пугали и притягивали его.",1,0,same_target_duplicate,0
+Ты получил белье в прачечной?,1,0,same_target_duplicate,1
+Пойду к маме и попрошу ее дать мне десять рублей.,1,0,same_target_duplicate,1
+Мы не получили письмо.,1,0,same_target_duplicate,1
+Я прошу у вас прощенья за вчерашнее.,1,0,same_target_duplicate,1
+Звуки с улицы не доносятся.,1,0,same_target_duplicate,1
+"Это были студенты, сами сведущие в эскимосском языке.",1,0,same_target_duplicate,0
+На стене справа висела картина.,1,0,same_target_duplicate,1
+Альфред любит современную музыку.,1,0,same_target_duplicate,1
+Одна женщина подарила яблоко мальчику.,1,0,same_target_duplicate,1
+Советую вам обратиться к врачу.,1,0,same_target_duplicate,1
+Я люблю отдыхать на Черном море.,1,0,same_target_duplicate,1
+"Я уверен, что он наверное прав.",0,Semantics,diff_target_confirmed,3
+"Прославив своё имя глубокими исследованиями болезней и применением вакцин, у меня сложились замечательные отношения со всеми учёными.",0,Syntax,same_target_duplicate,0
+Маша и Саша читают книгу.,1,0,same_target_duplicate,1
+Один случай внезапно подтверждает мои догадки.,0,Semantics,diff_target_confirmed,3
+"Потом пожалел, что не взял собаки.",1,0,same_target_duplicate,1
+Рядом с местом стула лежал коврик.,0,Semantics,diff_target_confirmed,3
+В этой реке много рыбы.,1,0,same_target_duplicate,1
+Перемен в технической политике фирмы не началось.,0,Semantics,diff_target_confirmed,2
+Она была в стороне от всяких интриг.,1,0,same_target_duplicate,1
+"Иван очень обрадовался, когда я поступил в институт.",1,0,same_target_duplicate,1
+"Было в ней и изящество, и скромность, и достоинство.",1,0,same_target_duplicate,1
+При нагревании вода дает пар.,0,Semantics,diff_target_confirmed,2
+Сообщение не обидело Марию.,1,0,same_target_duplicate,1
+Последние пять человек пришло.,0,Syntax,same_target_duplicate,0
+Он вернулся с работы совсем больным.,1,0,same_target_duplicate,0
+"Я все видел, сам оставаясь незамеченным.",1,0,same_target_duplicate,0
+"Он, я думаю, согласится.",1,0,same_target_duplicate,1
+"Возможно, что учитель поставил три двойки.",1,0,same_target_duplicate,1
+В этой реке есть много рыбы.,0,Semantics,diff_target_confirmed,3
+В этом дворе есть сторожевая собака.,1,0,same_target_duplicate,1
+"Я хочу, чтобы они зайдут, а ты спрячешься.",0,Syntax,same_target_duplicate,1
+Людей на площади не осталось.,1,0,same_target_duplicate,0
+Она смотрит на него и становится бледной.,0,Semantics,diff_target_confirmed,3
+"Когда она играла что-то прекрасное, как я любил ее.",1,0,same_target_duplicate,0
+Иван почти закончил диссертацию.,1,0,same_target_duplicate,1
+"У нас есть точные данные, что они знали все это.",1,0,same_target_duplicate,1
+Солдаты грелись вблизи костров.,0,Semantics,diff_target_confirmed,3
+Лейтенант-коммандер Ходжкинсон отдал приказ быть готовым к взлету.,1,0,same_target_duplicate,1
+Категорически запрещалось вступать с ними в какие бы то ни было разговоры.,1,0,same_target_duplicate,0
+"У меня была возможность все видеть, сам оставаясь незамеченным.",0,Syntax,diff_target_confirmed,2
+"Завод спускает отходы в реку, повышая содержание в воде соединений хлора.",1,0,same_target_duplicate,0
+Я изловчился схватить пса за ошейник.,0,Syntax,diff_target_confirmed,2
+"Слишком поздно выясняется, что он здесь.",0,Semantics,diff_target_confirmed,2
+"Она стояла так близко, что я ощущала запах ее духов.",1,0,diff_target_confirmed,2
+"Иван ли пришел на спектакль, несмотря на головную боль?",1,0,same_target_duplicate,0
+"Причем в случае, если возникнут те или иные экономические проблемы, виноват будет Кудрин.",1,0,same_target_duplicate,0
+Левой рукой он судорожно хрустел бумажками.,0,Semantics,diff_target_confirmed,2
+Он сажает все деревья в том саду.,1,0,same_target_duplicate,1
+"Люди, и без того жившие на грани нищеты, оказались лишены всяких средств к существованию.",0,Semantics,diff_target_confirmed,2
+"Поймите же, что у нее талант.",1,0,same_target_duplicate,1
+Общезаводской распорядок дня не существовал.,1,0,same_target_duplicate,0
+Мы оговорили возможность работать каждому со своим материалом.,1,0,same_target_duplicate,1
+Он должен успеть на поезд.,1,0,same_target_duplicate,1
+Я с самого сначала ему не поверил.,1,0,same_target_duplicate,0
+"Первый огонек блеснул вдали, на противоположной горе, в одиноком домике.",0,Semantics,diff_target_confirmed,2
+Очки лежали возле книги.,1,0,same_target_duplicate,1
+В мире много зла.,1,0,same_target_duplicate,1
+Она часто бывает у кого-нибудь из своих друзей.,1,0,same_target_duplicate,1
+"Ум мой бессознательно отказывался выводить какие-либо заключения из того, что я видел.",1,0,same_target_duplicate,1
+"Он сказал Дуне, что живет в Сан-Франциско.",1,0,same_target_duplicate,1
+В этой реке масса рыбы.,1,0,same_target_duplicate,1
+"Министр пригласил журналистку, взять у него интервью.",1,0,diff_target_confirmed,3
+Сообщение не взволновало Марию.,1,0,same_target_duplicate,0
+"Мы говорим врагам: сдавайтесь, или мы вас уничтожим.",1,0,same_target_duplicate,0
+Он остановил внимание на небольшой картине в углу.,1,0,same_target_duplicate,0
+Он выбирал сотрудницу по внешности.,1,0,same_target_duplicate,1
+Я разбирал одно похожее дело в прошлом году.,1,0,same_target_duplicate,1
+"Министр пригласил журналистку, дать ей интервью.",0,Syntax,diff_target_confirmed,2
+"Я хочу, чтобы в комнате был виден беспорядок, все стоит вверх дном.",0,Syntax,diff_target_confirmed,2
+Он удивил меня своим поведением.,1,0,same_target_duplicate,1
+Отказ от игры роняет Фишера в глазах шахматистов.,1,0,same_target_duplicate,1
+После этого он утратил какой бы то ни было интерес к происходящему.,1,0,same_target_duplicate,0
+Мне нужно во что бы то ни стало получить это кольцо.,1,0,same_target_duplicate,0
+"В обучении в школе есть свои плюсы, да даже возраст, когда мы там учимся, наибольше беззаботный.",0,Morphology,diff_target_confirmed,2
+"Все вымокнув под дождем, они добежали до станции.",1,0,same_target_duplicate,0
+Поселок расположен вдалеке от реки.,0,Semantics,diff_target_confirmed,3
+В моем кошельке есть много денег.,1,0,same_target_duplicate,1
+В два часа меня уже не будет в институте.,1,0,same_target_duplicate,0
+"Иван прилег, чтобы он отдохнул.",0,Syntax,same_target_duplicate,2
+"Она долго бежала вдоль забора, а потом повернула налево.",1,0,diff_target_confirmed,2
+Никто его не видел.,1,0,same_target_duplicate,1
+Он плотно захлопнул дверь.,0,Semantics,diff_target_confirmed,3
+Небольшая картина в углу остановила его внимание.,1,0,same_target_duplicate,0
+Всю молодость она была красива.,0,Semantics,diff_target_confirmed,3
+В это время мы сидели за столом и обедали.,1,0,diff_target_confirmed,2
+Отмель врезается в море.,1,0,same_target_duplicate,0
+"Два свитера и пара джинс, севших после стирки: пока живот не подберешь, не влезешь.",0,Morphology,diff_target_confirmed,2
+Я взял за работу 10 рублей.,1,0,same_target_duplicate,1
+"Пришел ли Иван на спектакль, несмотря на головную боль?",1,0,same_target_duplicate,0
+Сегодня в овощном были только яблоки.,1,0,same_target_duplicate,1
+Отца не было на море.,1,0,same_target_duplicate,2
+"Во время взрыва я оказался рядом с камином, и это спасло мне жизнь.",1,0,same_target_duplicate,0
+Я не считаю уместным давать какие-либо указания.,1,0,same_target_duplicate,0
+"А прочитав рассказ у Вас в 9-м номере, я хочу сходить к нему на могилу, положить цветы.",1,0,diff_target_confirmed,2
+Я ему об этом писал.,1,0,same_target_duplicate,1
+"Если его обидят, то он не стерпит.",1,0,same_target_duplicate,0
+Дерево над корнями заросло мхом.,1,0,same_target_duplicate,0
+Мешок весит не 50 кг.,1,0,same_target_duplicate,0
+Мысли отказываются остановиться на всяком предмете.,0,Semantics,diff_target_confirmed,2
+"Впереди, у багажного вагона, кто-то машет фонарем.",1,0,same_target_duplicate,0
+"Если человек нарушил нравственный долг, он должен за это отвечать.",1,0,same_target_duplicate,0
+Мы сейчас проехали Аникеевку.,1,0,same_target_duplicate,1
+"Если все инженеры могут выполнить эту работу, то зачем приглашать какого-то знаменитого специалиста.",0,Semantics,diff_target_confirmed,2
+У меня нет мобильника.,1,0,same_target_duplicate,0
+Ты давно не был в Москве.,1,0,same_target_duplicate,1
+Ты не должен ей помочь.,0,Semantics,diff_target_confirmed,3
+"Я был совсем рядом с ее домом, но к самому дому меня не пропустили.",1,0,same_target_duplicate,1
+Лодка скрежетала днищем о камни.,1,0,same_target_duplicate,0
+Канава отделила нашу ферму от соседней.,1,0,same_target_duplicate,1
+Поселок расположен вдали реки.,1,0,same_target_duplicate,1
+Водопровод не работал двое суток.,1,0,same_target_duplicate,0
+Это предприятие возглавляет Иванов.,1,0,same_target_duplicate,0
+Солдаты грелись у костров.,1,0,same_target_duplicate,1
+Он раздражен по любому поводу.,0,Semantics,diff_target_confirmed,3
+Пробовал кликнуть жену — ни один звук не вырвался из гортани.,1,0,same_target_duplicate,0
+"Маша читает книгу, и Саша читает книгу.",1,0,same_target_duplicate,1
+Афанасьевна и Софья стояли невдалеке и слушали.,0,Semantics,diff_target_confirmed,2
+Она была в стороне от каких бы то ни было интриг.,1,0,same_target_duplicate,0
+Я был огорчен этой новостью.,1,0,same_target_duplicate,1
+Я всю косметику со всяким ароматом убрала.,0,Semantics,diff_target_confirmed,2
+Оркестр расположен вблизи сцены.,1,0,same_target_duplicate,0
+"Думаю, что мосты еще не сняли.",1,0,same_target_duplicate,0
+Они читали жалобы на себя.,1,0,same_target_duplicate,1
+Он вылил воду из лейки на клумбу.,1,0,same_target_duplicate,0
+"Люди, и без того жившие на грани нищеты, оказались лишены всех средств к существованию.",1,0,same_target_duplicate,0
+Мой дядя восходил на Эверест.,1,0,same_target_duplicate,0
+Этот в был очень тяжелым.,0,Syntax,same_target_duplicate,1
+"Студенты, оба знатоки эскимосского языка, не смогли разобрать здесь ни слова.",1,0,same_target_duplicate,0
+Однажды она встретила его принаряженным.,1,0,same_target_duplicate,0
+Я ощущаю запах гари.,1,0,same_target_duplicate,1
+Напоминание себе об опасности прозвучало вовремя.,0,Syntax,diff_target_confirmed,2
+"Если он может решить все задачи,у него выдающиеся математические способности.",1,0,same_target_duplicate,1
+"Говоря, например, о картине Александра Иванова «Явление Христа народу», он восхищается ею прежде всего как народной картиной, начисто отвергая какие-либо мистико-религиозные ее толкования.",0,Semantics,diff_target_confirmed,2
+"Из всех задач выбрал самую трудную задачу, чтобы с нее начать.",1,0,same_target_duplicate,0
+В зал вносят четыре ящика.,1,0,same_target_duplicate,0
+В этом слове я все время делала ошибку.,1,0,same_target_duplicate,0
+Мы пригласили лично президента.,1,0,same_target_duplicate,0
+"Я не надеюсь, что он уедет.",1,0,same_target_duplicate,1
+"Писатель пригласил журналистку, чтобы взять у него интервью.",0,Syntax,diff_target_confirmed,3
+"Министр пригласил журналистку, чтобы взять у него интервью.",0,Syntax,diff_target_confirmed,3
+Они не встречали какого-либо сопротивления на своем пути.,1,0,same_target_duplicate,0
+"Мы отправим на эту конференцию наши доклады, потому что она для нас будет очень важна.",1,0,same_target_duplicate,0
+Ивана никогда не было в таком театре.,0,Semantics,diff_target_confirmed,2
+"Осетровые рыбы, как я считаю, утратили свой былой вкус.",0,Semantics,diff_target_confirmed,2
+Они грелись вблизи костров.,0,Semantics,diff_target_confirmed,3
+Они решили одни распоряжаться.,1,0,same_target_duplicate,1
+"Среди популярных достопримечательностей, доступных пешком отсюда, - Augustusplatz, Opera House и Museum изящного искусства.",0,Hallucination,same_target_duplicate,1
+Победных маршей не гремело.,1,0,same_target_duplicate,0
+Эти студенты — сами специалисты в эскимосском языке.,1,0,same_target_duplicate,1
+"Скрою, он мне понравился.",0,Semantics,diff_target_confirmed,3
+"Он прав, я понимают.",0,Semantics,diff_target_confirmed,2
+План Саши Маша продать квартиру.,0,Syntax,same_target_duplicate,0
+Он был в полном отчаянии.,1,0,same_target_duplicate,1
+Телевизора нет в мастерской.,1,0,same_target_duplicate,1
+Книга была нарочно куплена студентом у букиниста.,1,0,same_target_duplicate,0
+"Я уверен, что он возможно прав.",0,Semantics,same_target_duplicate,1
+"Уверен, что завтра что-нибудь не случится.",0,Semantics,diff_target_confirmed,3
+Букинист с особой целью продал книгу студенту.,1,0,same_target_duplicate,1
+"Возьми из сада мою кофту, я оставила ее в беседке.",0,Semantics,diff_target_confirmed,2
+Альфред не любит современную музыку.,1,0,same_target_duplicate,0
+Не держал ли он в руках газеты?,0,Semantics,diff_target_confirmed,2
+"Мне предоставилась возможность все видеть, самому оставаясь незамеченным.",1,0,same_target_duplicate,0
+"Я думаю, он согласится.",1,0,same_target_duplicate,1
+"Скажи, а нельзя постараться, чтобы Сухой Рыбак не обидел Вани?",0,Semantics,diff_target_confirmed,2
+Он отказывался от каких-либо предложений.,0,Semantics,diff_target_confirmed,2
+Солдаты грелись поблизости от костров.,0,Semantics,diff_target_confirmed,3
+Он встал около меня и начал выговаривать за опоздание.,1,0,same_target_duplicate,0
+Где я имею право загорать голым?,1,0,same_target_duplicate,0
+"Маша читает, и Саша читает книгу.",1,0,diff_target_confirmed,2
+"Кто написал ""Войну и мир""?",1,0,diff_target_confirmed,2
+"Одни продолжали работать по старинке, а другие перешли на новые условия труда.",1,0,same_target_duplicate,0
+"Если они и смеялись, то не громко.",1,0,same_target_duplicate,0
+Пожарной команды не появилось.,0,Semantics,diff_target_confirmed,3
+Калязинской ПМК-500 требуются шофера для работы на автомашинах ГАЗ-52 и ЗИЛ-585 со сдельной оплатой.,0,Morphology,diff_target_confirmed,2
+"Я запросил 10 рублей, и он мне дал.",1,0,same_target_duplicate,1
+Задавал ли он тебе какие бы то ни было каверзные вопросы?,1,0,same_target_duplicate,0
+Его взяли в наш институт.,1,0,same_target_duplicate,1
+Я удивился его приходу.,1,0,same_target_duplicate,1
+"Что ты не знаешь, как починить!",1,0,same_target_duplicate,1
+"Я не мог поверить, что этот ужасный человек и есть я.",1,0,same_target_duplicate,1
+В прошлом году я лежал в больнице МПС с воспалением легких.,1,0,same_target_duplicate,1
+Среди моих студентов есть способные.,1,0,same_target_duplicate,1
+Я не решил всех ваших задач.,1,0,same_target_duplicate,0
+Он стоял совсем близко от меня.,1,0,same_target_duplicate,1
+"На спектакль в каком театре пришел Иван, несмотря на головную боль?",1,0,same_target_duplicate,1
+Налицо неподвластность человеческого тела каким-либо манипуляциям.,1,0,same_target_duplicate,0
+"Я протянул ему ложку, которую Сев выразил желание держать самому.",0,Syntax,diff_target_confirmed,2
+Иван не был дома и месяца.,1,0,same_target_duplicate,1
+"Иван сказал, что он заболел.",1,0,same_target_duplicate,1
+Вы один показался мне веселым.,0,Syntax,same_target_duplicate,1
+Они попели песни около костров.,1,0,same_target_duplicate,2
+У нее есть седые волосы.,1,0,same_target_duplicate,1
+"Я считаю, что он, несомненно, прав.",1,0,same_target_duplicate,1
+"Появится кто-нибудь совершенно новый, неведомый, порожденный нынешней ситуацией, ни на что ожидаемое не похожий.",0,Semantics,diff_target_confirmed,2
+Возьми мне из ее чемодана полотенце.,0,Semantics,diff_target_confirmed,3
+"Вася сказал: ""У меня кое-что для тебя есть"".",1,0,same_target_duplicate,1
+Он может с кем-нибудь общаться.,0,Semantics,diff_target_confirmed,3
+"Он пробежал эту дистанцию за 10 секунд и, таким образом, взял преимущество над своими соперниками.",0,Semantics,diff_target_confirmed,2
+Кольцо составит примерно 5% от общего освещения Хаумеи.,1,0,same_target_duplicate,0
+"Будьте вы повнимательней, ошибка была бы исправлена.",0,Syntax,diff_target_confirmed,2
+"Первый огонек блеснул вдали на противоположной горе, в отдаленном домике близ шлагбаума.",1,0,same_target_duplicate,0
+Это начинает мне надоедать.,1,0,same_target_duplicate,1
+Ты посылал ей приглашение на свадьбу?,1,0,same_target_duplicate,0
+"Поскольку погода была хорошая, он не пошел гулять.",1,0,same_target_duplicate,1
+Других улик не сохранилось.,1,0,same_target_duplicate,0
+Я встречался с приятелями.,1,0,same_target_duplicate,1
+"Лишь только мы принесли пиво, как вы — рыбу.",1,0,diff_target_confirmed,2
+Ветки деревьев слабо звенели.,1,0,same_target_duplicate,1
+Она сидела рядом со мной и плакала.,1,0,same_target_duplicate,1
+"Ляжьте, пожалуйста, на тахту.",0,Morphology,diff_target_confirmed,2
+"Насупившийся, переполненный эмоциями Дашевский не был расположен выслушивать никакие оправдания.",0,Semantics,diff_target_confirmed,2
+"Я думаю, что он, несомненно, прав.",1,0,same_target_duplicate,1
+Близко от него сидит молоденькая девушка и читает какую-то книгу.,1,0,same_target_duplicate,1
+Молодая красивая девушка сидела на подоконнике недалеко от двери и курила.,1,0,same_target_duplicate,0
+Некоторые сотрудники нашего института отдыхали на юге.,1,0,same_target_duplicate,1
+"Хотя он всегда с собой кого-то брал, на случай поломок или возможных недоразумений, но автомобилем он правил сам.",0,Semantics,diff_target_confirmed,2
+Вы уже дали отчет?,0,Semantics,diff_target_confirmed,3
+Опасность поскользнуться на льду или соскользнуть по нему вместе с тонким слоем покрывающего его снега увеличивалась с каждым шагом.,1,0,diff_target_confirmed,2
+Он не решил всех ваших задач.,1,0,same_target_duplicate,0
+"Я получил возможность все видеть, сам оставаясь незамеченным.",1,0,same_target_duplicate,0
+Этот фильм показывали по телевизору.,1,0,same_target_duplicate,1
+"Я утверждаю, что кто может объять необъятное.",0,Semantics,same_target_duplicate,0
+Я сейчас пишу письмо.,1,0,same_target_duplicate,1
+Коряга высовывалась из воды.,1,0,same_target_duplicate,0
+"Я показал этот текст студентам, обоим специалистам в эскимосском языке.",0,Syntax,same_target_duplicate,0
+Близ стола стояло большое кресло.,0,Semantics,diff_target_confirmed,3
+"Специалисты съехались со всех концов страны, с других трубных заводов, и живут без них.",1,0,same_target_duplicate,0
+Пакет содержал ценные документы.,1,0,same_target_duplicate,0
+"Маша, он видит, бледна.",0,Semantics,diff_target_confirmed,2
+Я не съел ветчины.,1,0,same_target_duplicate,1
+Множество людей пришли за кулисы.,1,0,same_target_duplicate,1
+"Ральф считает про человека в желтой шляпе, что он шпион.",1,0,same_target_duplicate,1
+Я взял у него деньги.,1,0,same_target_duplicate,1
+Знакомство с «Сатириконом» несомненно отражается на исторической концепции повести.,1,0,same_target_duplicate,0
+"Петя покрасил дачу, а Коля отремонтировал машину Иванова.",1,0,same_target_duplicate,1
+Я это не знаю.,0,Semantics,diff_target_confirmed,3
+Броненосец скрежетал якорными канатами.,1,0,same_target_duplicate,0
+Было получено эти два извещения.,0,Syntax,diff_target_confirmed,2
+Следующий довод опроверг его утверждение.,1,0,same_target_duplicate,1
+Я сейчас выразил ему свое неудовольствие.,1,0,same_target_duplicate,0
+Дубровский назначил им местом свиданья Кистеневскую рощу.,1,0,same_target_duplicate,0
+Следы высокоорганизованной материи не обнаружены.,0,Semantics,diff_target_confirmed,2
+Он подтверждает свое согласие.,1,0,same_target_duplicate,1
+Меня испугал его приход.,1,0,same_target_duplicate,1
+М.Ю. Лермонтов писал романтические поэмы.,1,0,same_target_duplicate,0
+"Хотя у меня возникали некоторые сомнения, он всегда говорил очень убедительно.",1,0,same_target_duplicate,1
+Ванин приход обрадовал нашу маму.,1,0,same_target_duplicate,1
+"Журналистка была приглашена министром, чтобы взять у него интервью.",1,0,same_target_duplicate,1
+"Мы отправили на эту конференцию наши доклады, потому что она для нас будет очень важна.",1,0,same_target_duplicate,0
+Вы один показались мне веселыми.,0,Syntax,diff_target_confirmed,2
+Сообщение не испугало Марию.,1,0,same_target_duplicate,1
+Но Александр Борисович отрицает все мстительные мотивы в своем выборе.,0,Semantics,same_target_duplicate,1
+"Статья подписана ""Иван Петров"", и я знаю, что на этот раз ты ее писал сам.",1,0,same_target_duplicate,0
+"Я воспользовался перочинным ножом, чтобы нарезать колбасу.",1,0,same_target_duplicate,1
+"Журналистка была приглашена министром, чтобы дать ей интервью.",0,Syntax,diff_target_confirmed,2
+С вами говорит ученый секретарь Института точной механики.,1,0,same_target_duplicate,0
+Они считали его талантливыми.,0,Syntax,diff_target_confirmed,2
+Меня никогда в этом доме не было.,0,Semantics,same_target_duplicate,3
+Сегодня отца еще не было на море.,0,Semantics,diff_target_confirmed,3
+Здесь мы столкнулись с совершенно новой проблемой.,1,0,same_target_duplicate,1
+У нас редко проводятся занятия по истории.,1,0,same_target_duplicate,1
+Я рисковал опозданием на семинар.,1,0,same_target_duplicate,1
+Он и минуты не держал книги в руках.,1,0,same_target_duplicate,0
+"Я хочу, чтобы они зашли, а ты спрячешься.",0,Syntax,diff_target_confirmed,2
+После этого он утратил всякий интерес к происходящему.,1,0,same_target_duplicate,0
+Две ошибки он не заметил.,1,0,same_target_duplicate,0
+Он относился к ней с какой-то особенной нежностью.,1,0,same_target_duplicate,0
+Вчера поздно вечером иду я по Кузнецкому.,1,0,same_target_duplicate,0
+Немедленно прекратите какие бы то ни было поисковые работы.,1,0,same_target_duplicate,0
+Дерево было срублено близко от корней.,1,0,same_target_duplicate,1
+"Он всегда говорил очень убедительно, и у меня возникали некоторые сомнения.",1,0,same_target_duplicate,1
+В коробочке лежал белый предмет.,1,0,same_target_duplicate,0
+Мать убаюкивала ребенка пением.,1,0,same_target_duplicate,0
+Он выбрал себе жену из казачек.,1,0,same_target_duplicate,1
+"Не удивительно, что он согласился.",1,0,same_target_duplicate,1
+"Иван пришел на спектакль, несмотря на головную боль.",1,0,same_target_duplicate,0
+Как он ее в этот момент ненавидел.,1,0,same_target_duplicate,0
+Она сидела близко от меня и плакала.,0,Semantics,diff_target_confirmed,3
+"Я заметил человека, который переплыл Ламанш.",0,Semantics,same_target_duplicate,0
+"Вероятно, там кто-нибудь был?",1,0,same_target_duplicate,2
+Ты не должен ей помогать.,1,0,same_target_duplicate,1
+Он рассердил меня своей невнимательностью.,1,0,same_target_duplicate,1
+Меня обрадовал его приход.,1,0,same_target_duplicate,1
+Это возвышает ее в моих глазах.,1,0,same_target_duplicate,0
+Я помыл посуду.,1,0,same_target_duplicate,1
+Поздравляю с днём рождением и желаю долгих лет жизни!,0,Morphology,diff_target_confirmed,3
+Она берет теорию гранулярного пламени.,0,Semantics,diff_target_confirmed,2
+"Кто знает, почему Том лжет?",1,0,same_target_duplicate,0
+Я не разбил чашки.,1,0,same_target_duplicate,1
+Я увидел там одни развалины.,1,0,same_target_duplicate,1
+"Вот дерево засохнуло, но все же оно вместе с другими качается от ветра.",0,Morphology,diff_target_confirmed,2
+Ивана не было в своей комнате.,0,Semantics,diff_target_confirmed,3
+Бутыль не вмещает пяти литров.,1,0,same_target_duplicate,1
+"Напрасно вы думаете, что вы здоровы, у вас есть катар верхних дыхательных путей.",0,Semantics,diff_target_confirmed,2
+Он не был там и разу.,0,Semantics,diff_target_confirmed,3
+Этот фильм показывали по телевизору?,1,0,same_target_duplicate,1
+Это ты верно заметил.,1,0,same_target_duplicate,0
+Он достал платок из кармана.,1,0,same_target_duplicate,1
+Он нашел хотя бы двух желающих?,1,0,same_target_duplicate,1
+"Я в поте лица зарабатываю скромное жалование и скапливаю по крохам, чтобы купить себе в конце недели килограмм сосисек.",0,Morphology,diff_target_confirmed,2
+Он дал ему одобрение.,0,Semantics,diff_target_confirmed,3
+"Журналистка была приглашена писателем для того, чтобы взять у него интервью.",1,0,same_target_duplicate,0
+Теперь комнату освещала только лампада.,1,0,same_target_duplicate,0
+Вы уже написали отчет?,1,0,diff_target_confirmed,2
+"Говори, кто ты такой!",1,0,same_target_duplicate,0
+"Когда отец Мухина после речи пополнился на сто пятьдесят граммов водки, то утратил всякий интерес к происходящему.",1,0,same_target_duplicate,0
+Невдалеке от горы стояла сакля.,0,Semantics,same_target_duplicate,2
+Иванов присутствовал на лекции.,1,0,same_target_duplicate,1
+"Там, я вижу, кто-то есть.",0,Semantics,diff_target_confirmed,3
+Книга была охотно продана студенту букинистом.,1,0,same_target_duplicate,0
+"Сомневаюсь, что она знает все детали.",1,0,same_target_duplicate,1
+Ты еще многого не знаешь.,1,0,same_target_duplicate,1
+Ты показывал ей это письмо?,1,0,same_target_duplicate,0
+"Ну что ж, если хотите жить на свободе, идите, я дам вам волю.",1,0,same_target_duplicate,0
+"Он не знает, что Иван приехал.",1,0,same_target_duplicate,1
+Весь день я простоял около станка.,0,Semantics,same_target_duplicate,3
+Ни одного фонаря не горело.,1,0,same_target_duplicate,0
+"Как-то я проанализировала свой режим жизни, начиная лет с 14, и, мягко говоря удивилась: по-хорошему, меня и близко нельзя было назвать прилежной студенткой.",1,0,same_target_duplicate,0
+"Брат сидел около меня, а муж — сзади.",0,Semantics,diff_target_confirmed,2
+"Маша вчера сказала, что приедет на следующий день.",1,0,same_target_duplicate,1
+"Журналистка, была приглашена министром взять у него интервью.",1,0,diff_target_confirmed,2
+Иван Грозный не убивал своего сына.,1,0,same_target_duplicate,0
+Эта закономерность была подмечена им первым.,1,0,same_target_duplicate,0
+У меня есть старые родители.,0,Semantics,diff_target_confirmed,3
+Есть за что полюбить.,1,0,same_target_duplicate,0
+"Директриса сидела с той же вежливой улыбочкой, не пророняя ни слова.",0,Morphology,diff_target_confirmed,2
+Музей Пастернака есть в Переделкине.,1,0,same_target_duplicate,1
+Сейчас как раз идет одно из занятий по английскому языку.,1,0,same_target_duplicate,1
+Я испугался его приходу.,1,0,same_target_duplicate,1
+Когда я смогу получить эти книги?,1,0,same_target_duplicate,1
+В этот момент женщина вышла из кабинета.,1,0,same_target_duplicate,1
+Наш спор решат пистолеты.,1,0,same_target_duplicate,0
+"Вождь хочет говорить, причем среди вас есть тот, с кем он хочет говорить.",1,0,same_target_duplicate,0
+Я положил ружье рядом с собой.,1,0,same_target_duplicate,1
+Я хочу посоветоваться с каким-нибудь хорошим врачом.,1,0,same_target_duplicate,1
+"Я открыл окно, чтобы проветрить комнату.",1,0,same_target_duplicate,1
+"Если любой из них может это сделать, то зачем приглашать какого-то знаменитого специалиста.",1,0,same_target_duplicate,0
+"Я показал этот текст студентам, самим знающим эскимосский язык.",0,Syntax,same_target_duplicate,0
+Возьми со стола свои книги.,1,0,same_target_duplicate,1
+Ты хоть кому-нибудь помоги.,1,0,same_target_duplicate,0
+В этой встрече была только радость.,1,0,same_target_duplicate,1
+Его убили вблизи «Трех утопленников».,0,Semantics,diff_target_confirmed,2
+"Брат надеется, что поступит в университет.",1,0,same_target_duplicate,1
+Очки лежали у книги.,0,Semantics,diff_target_confirmed,3
+Достань из моего чемодана плед и накрой Машу.,1,0,same_target_duplicate,1
+Он больше не развлекает меня анекдотами.,1,0,same_target_duplicate,1
+Привозят меня в больницу с брюшным тифом.,1,0,same_target_duplicate,0
+"Студенты, сами знатоки эскимосского языка, не смогли разобрать здесь ни слова.",1,0,same_target_duplicate,0
+Иван отменил решение пойти на встречу одному.,1,0,same_target_duplicate,1
+Напрасно вы отождествляете Волошинова с Бахтиным.,1,0,same_target_duplicate,0
+Его не было дома два дня.,1,0,same_target_duplicate,1
+"Ему приказано отступать, и отступает.",0,Syntax,diff_target_confirmed,2
+Ни одного звука не вырвалось из его гортани.,1,0,same_target_duplicate,0
+Он совершенно спокойно принял возражения своего оппонента.,1,0,same_target_duplicate,1
+"Видно, что по ней давно уже не ходят люди.",1,0,same_target_duplicate,0
+"У нее болит голова, она остается дома.",0,Semantics,diff_target_confirmed,3
+"Сообщают, что Киссинджер, кажется, получит за свои мемуары два миллиона.",1,0,same_target_duplicate,0
+"Жаль, что Иван не был!",0,Semantics,diff_target_confirmed,3
+Я тогда не могла сказать что-нибудь.,0,Semantics,diff_target_confirmed,3
+Этот на был очень тяжелым.,0,Syntax,same_target_duplicate,0
+Я подарю ей какую-нибудь из этих книг.,1,0,same_target_duplicate,1
+"Уже после отношений с поставщиком, или вступления в долгосрочные отношения – отпишите на наших форумах о Компании или скорректируйте рейтинг компании.",0,Semantics,same_target_duplicate,0
+Она приняла это известие очень спокойно.,1,0,same_target_duplicate,1
+Не переходи улицы в этом месте.,0,Semantics,diff_target_confirmed,3
+Он имеет порок сердца.,0,Semantics,same_target_duplicate,1
+"Говорят, что он ее чем-нибудь обидел.",0,Semantics,diff_target_confirmed,2
+Дорога проходит через лес.,1,0,same_target_duplicate,1
+У него в лаборатории есть хорошие биохимики.,1,0,same_target_duplicate,1
+Я совсем не понимаю квантовую физику.,1,0,same_target_duplicate,0
+Это влияет на любые инициативы сдвига в какую-либо сторону.,1,0,same_target_duplicate,1
+"Хороший был слесарь, любые замки открывал.",1,0,same_target_duplicate,0
+Эти студенты — оба сведущие в эскимосском языке.,1,0,same_target_duplicate,0
+"Мы отправляем на эту конференцию наши доклады, потому что она для нас была очень важна.",1,0,same_target_duplicate,1
+Как бы он не надел второпях мою шляпу.,1,0,same_target_duplicate,0
+"Студентам, обоим хорошо знающим эскимосский язык, не удалось разобрать здесь ни слова.",1,0,same_target_duplicate,0
+На ее лице выразилось презрение ему.,0,Semantics,diff_target_confirmed,2
+Он дал ему все свое состояние.,0,Semantics,diff_target_confirmed,3
+Не дымилось больше заводских труб за рекой.,1,0,same_target_duplicate,0
+Он был схвачен за шиворот.,1,0,same_target_duplicate,0
+Он не был там ни разу.,1,0,diff_target_confirmed,2
+Я огорчил отца своим проигрышем.,1,0,same_target_duplicate,0
+Опасность подскользнуться на льду или соскользнуть по нему вместе с тонким слоем покрывающего его снега увеличивалась с каждым шагом.,0,Morphology,diff_target_confirmed,2
+"Иван, наверное, в отпуске.",1,0,same_target_duplicate,1
+После этого они начали громко смеяться.,1,0,same_target_duplicate,1
+"Когда она играла что-нибудь прекрасное, как я любил ее.",1,0,same_target_duplicate,0
+Я гуляю два часа.,1,0,same_target_duplicate,1
+"Да его никто и не слушал, потому что Старшов смотрел на Олексина-старшего, а тот мучительно преодолел неимоверно разросшуюся застенчивость.",0,Semantics,diff_target_confirmed,2
+Пара валенков готовится три дня!,0,Morphology,diff_target_confirmed,2
+"Он чувствует, что ему явно не хватает Маши.",0,Semantics,diff_target_confirmed,2
+Он не будет есть каши.,0,Semantics,diff_target_confirmed,2
+"Он говорит, что именно в этот момент на дороге показался я.",1,0,same_target_duplicate,1
+"Ашот лежал поодаль от меня, спал.",1,0,same_target_duplicate,1
+У стола висела картина.,1,0,same_target_duplicate,1
+"Скажи, а нельзя постараться, чтобы Сухой Рыбак не обидел Ваню?",1,0,same_target_duplicate,1
+Мы должны найти способ выжить сами.,0,Syntax,same_target_duplicate,2
+"Санитар рявкнул возле самого ее уха, что такого-то раненого следует немедленно доставить в операционную.",1,0,same_target_duplicate,0
+Я обвиняю Джона не в национализме.,1,0,same_target_duplicate,0
+Иван показал Лене себя на фотографии.,1,0,same_target_duplicate,1
+У этого животного есть зубы.,1,0,diff_target_confirmed,2
+Она взяла из сундука небольшой коврик и постелила его перед диваном.,0,Semantics,diff_target_confirmed,3
+"Министр пригласил журналистку, чтобы дать ей интервью.",1,0,same_target_duplicate,1
+Теперь уравнение выглядит так.,1,0,same_target_duplicate,1
+У Маши есть брат.,1,0,same_target_duplicate,1
+"Вы читали ""Капитанскую дочку""?",1,0,same_target_duplicate,0
+Наше войско дружным нападением решило дело.,1,0,same_target_duplicate,0
+Окно разбилось от порыва ветра.,1,0,same_target_duplicate,0
+Ни в одном номере телевизор не стоял.,1,0,same_target_duplicate,0
+"У меня была возможность все видеть, самому оставаясь незамеченным.",1,0,same_target_duplicate,0
+В 6.30 доклад был закончен.,1,0,same_target_duplicate,0
+"Маша книгу, и Саша читает.",0,Syntax,same_target_duplicate,1
+Математика и естественные науки преподавались.,1,0,same_target_duplicate,1
+"Я стою поблизости от Центризбиркома и наблюдаю за тем, что происходит у входа.",0,Semantics,diff_target_confirmed,3
+Хозяина в доме не чувствуется.,1,0,same_target_duplicate,1
+"Все, кто изучали процесс развития языка, знает о различных исторических изменениях на уровне фонетики, грамматики.",0,Syntax,same_target_duplicate,0
+Травы здесь не растет.,1,0,same_target_duplicate,1
+"Где-то вдали, почему-то очень волнуя сердце, шумели поезда.",1,0,same_target_duplicate,1
+Я еще не достал билетов на «Щелкунчик».,1,0,same_target_duplicate,0
+Я дал приказ отступать.,1,0,same_target_duplicate,0
+"Ты прочел ""Капитанскую дочку""?",1,0,same_target_duplicate,1
+Он дал крестьянам землю.,1,0,same_target_duplicate,0
+Этот мой был очень тяжелым.,1,0,diff_target_confirmed,2
+Отец уговорил Ивана не вмешиваться в конфликт самого.,1,0,same_target_duplicate,0
+Поворота в научно-технической пропаганде не началось.,0,Semantics,diff_target_confirmed,2
+"Чего только не было: копчёные окороки, настоящее салями, мясо, яблоки, пироги!",0,Morphology,diff_target_confirmed,2
+"Он вдруг понял, что ей неприятны никакие подробности его домашней жизни.",0,Semantics,diff_target_confirmed,2
+"Светит солнце, но все-таки холодно и но не хочется идти гулять.",0,Syntax,same_target_duplicate,1
+"Я чувствовал, что она волнуется.",1,0,same_target_duplicate,1
+Возьми из моего стола тезисы докладов и дай Ивану Сергеевичу.,1,0,same_target_duplicate,1
+Он открыл шкаф и взял оттуда два больших полотенца.,1,0,same_target_duplicate,1
+Он воздержался от всех комментариев.,1,0,same_target_duplicate,1
+"Иван ведь тогда говорил, что она сейчас без работы.",1,0,same_target_duplicate,0
+Она взяла его точку зрения.,0,Semantics,diff_target_confirmed,3
+Вячеслав стоял у примуса и по обыкновению зубрил что-то.,1,0,same_target_duplicate,0
+Его еще не прочитал этой статьи.,0,Syntax,diff_target_confirmed,2
+У стола висели фотографии.,0,Semantics,diff_target_confirmed,3
+"Он сидел в кресле, рядом с ним стояла недопитая бутылка вина.",1,0,same_target_duplicate,1
+Книга была назло мне продана студенту букинистом.,1,0,same_target_duplicate,0
+Кто покупал эти билеты?,1,0,same_target_duplicate,0
+Его приняли в больницу.,0,Semantics,diff_target_confirmed,3
+"Вспомнил, что Н.С. Михалков недавно выразил желание быть похоронен здесь.",1,0,same_target_duplicate,0
+При термической обработке металлы получают исключительную твердость.,1,0,same_target_duplicate,0
+"Светит солнце и не холодно, но и не хочется идти гулять.",0,Syntax,same_target_duplicate,1
+Я с удовольствием имел с ним беседу.,0,Semantics,diff_target_confirmed,3
+"А ты езжай прямо к директору театров, князю Гагарину.",0,Morphology,same_target_duplicate,2
+В то время он пил стакан воды.,0,Semantics,diff_target_confirmed,2
+"Вода капает, так что ведро наполнится не скоро.",1,0,same_target_duplicate,0
+"Вы можете видеть здесь, что Япония сделала?",0,Semantics,diff_target_confirmed,2
+Она была в стороне от всех интриг.,1,0,same_target_duplicate,1
+За стеной кашлял человек.,1,0,same_target_duplicate,1
+Я не могла тогда сказать ему что-нибудь определенное.,1,0,same_target_duplicate,1
+Она выполнила половину вашего задания.,1,0,same_target_duplicate,1
+Есть одна удивительная женщина у нас в Покрове.,1,0,same_target_duplicate,0
+Окно было открыто час назад пятнадцать минут.,0,Semantics,diff_target_confirmed,2
+Перемен в технической политике фирмы еще не началось.,0,Semantics,diff_target_confirmed,2
+Он запер закрытую мною дверь.,1,0,same_target_duplicate,0
+"Я думаю, мы можем к нему зайти.",1,0,same_target_duplicate,1
+У этого животного есть острые зубы.,0,Semantics,diff_target_confirmed,3
+Мне и рубля не накопили строчки.,1,0,same_target_duplicate,0
+"Коли не было в зале, когда выключили свет.",1,0,same_target_duplicate,0
+У него было чувство страха перед этим человеком.,1,0,same_target_duplicate,1
+"Хочу, чтобы, если вы захотели, то вам все показали.",0,Syntax,same_target_duplicate,0
+"В путеводителе я позже вычитал, что киприоты всегда готовы приходить на нее.",0,Syntax,diff_target_confirmed,2
+"У тебя три брата и две сестры, и если потребуется, ты должен помогать им всем.",1,0,same_target_duplicate,0
+Маша и Лена после моих уговоров помирились.,1,0,same_target_duplicate,0
+Я не воспринимаю этой музыки.,1,0,same_target_duplicate,2
+Его не пришлет ответ.,0,Syntax,same_target_duplicate,1
+Он долго был в отчаянии.,1,0,same_target_duplicate,1
+Много ребят накупили хорошую книгу.,0,Syntax,diff_target_confirmed,2
+Я дал ему обещание.,1,0,same_target_duplicate,1
+Оттуда привезли в последний момент взвод солдатов и военный оркестр.,0,Morphology,diff_target_confirmed,2
+Сегодня я разговаивал с директором.,1,0,diff_target_confirmed,2
+Много горя ее матери пришлось пережить.,1,0,same_target_duplicate,1
+"Мальчики вошли, неся каждый по сумке.",1,0,same_target_duplicate,1
+"Я показал этот текст студентам, обоим знающим эскимосский язык.",0,Syntax,same_target_duplicate,0
+Иван не купил на рынке игрушек.,1,0,same_target_duplicate,0
+"Ты хочешь, чтобы тебе заплатили пятьсот тысяч.",1,0,same_target_duplicate,0
+Иван питает надежду встретиться с тобой самому.,0,Syntax,diff_target_confirmed,2
+Однажды она встретила его принаряженной.,1,0,same_target_duplicate,1
+Охотник закрывал чем-то вход в пещеру.,1,0,same_target_duplicate,0
+"Сторож стуком колотушки доказал, что он не спит.",1,0,same_target_duplicate,0
+"Студентам, обоим сведущим в эскимосском языке, не удалось разобрать здесь ни слова.",1,0,same_target_duplicate,0
+Отказ от игры уронил его в глазах шахматистов.,1,0,same_target_duplicate,1
+Обсуждать что-либо всерьез становится практически невозможно.,1,0,same_target_duplicate,0
+Ивана еще не было в таком театре.,0,Semantics,diff_target_confirmed,2
+Он не пропьет всех денег.,1,0,same_target_duplicate,0
+Его пламенная речь меня воодушевила.,1,0,same_target_duplicate,0
+"Они, если вы захотите, вам все покажут.",1,0,diff_target_confirmed,2
+Здесь нельзя перейти улицу.,1,0,same_target_duplicate,1
+"Он получил большое облегчение, узнав, что она простила ему.",1,0,same_target_duplicate,1
+"Должен же ты был с кем-нибудь поговорить, прежде чем начать ра боту.",1,0,same_target_duplicate,1
+Взглянь на рисунок и вырежи из тонкого картона точно такие же очки.,0,Morphology,diff_target_confirmed,2
+Даже учитель с трудом решил эту задачу.,1,0,same_target_duplicate,0
+В каких населенных пунктах находятся склады?,1,0,same_target_duplicate,0
+"Новые катеры и водометы-толкачи гудят коротко, высоко и гнусаво.",0,Morphology,diff_target_confirmed,2
+"Как не исключает Иван, изменения необходимы.",0,Semantics,same_target_duplicate,0
+"Лишь только мы принесли пиво, вы — рыбу.",0,Syntax,diff_target_confirmed,2
+"Придется, если откроешь свое дело, всем взятки давать.",1,0,same_target_duplicate,0
+Он говорил об упразднении каких бы то ни было званий.,1,0,same_target_duplicate,0
+Николай женился на Ольге в двадцать три года.,1,0,same_target_duplicate,0
+Лейтенант-коммандер Ходжкинсон получил приказ быть готовым к взлету.,1,0,same_target_duplicate,1
+От длинных перечислений я утомился.,1,0,same_target_duplicate,1
+"Иван ни плаща, ни куртки с собой не взял.",1,0,same_target_duplicate,0
+"Я жил хорошо, потому что в Москве.",0,Syntax,diff_target_confirmed,2
+Я ищу какую-то интересную пьесу по современной тематике.,0,Semantics,diff_target_confirmed,2
+"Он не знает, зачем приехал Иван.",1,0,same_target_duplicate,0
+"Они уйдут, а вместо них появится кто-то новый.",1,0,same_target_duplicate,0
+Начальник заставлял его работать больной.,0,Syntax,diff_target_confirmed,2
+"Тут он взглянул на дверь в кабинет Берлиоза, бывшую около передней, и тут, как говорится, остолбенел.",0,Semantics,same_target_duplicate,2
+Тут мы не вправе вступать в какую-либо полемику.,1,0,same_target_duplicate,0
+Отказ от игры не уронил бы Фишера в глазах шахматистов.,1,0,same_target_duplicate,0
+Иван нарушил обещание встретиться с нами сам.,1,0,same_target_duplicate,1
+Тогда руководители NASA также сначала отрицали наличие каких бы то ни было серьезных технологических проблем.,1,0,same_target_duplicate,0
+"Он болен, никто не знал.",0,Syntax,diff_target_confirmed,2
+"Вчера обнаруживается, что преступник на свободе.",0,Semantics,diff_target_confirmed,3
+Главный принцип вашей студии ― избегать прямого цитирования какого бы то ни было всякого стиля.,0,Semantics,diff_target_confirmed,2
+Виктор Ерофеев выразил желание выступать второй.,1,0,same_target_duplicate,0
+Они также насильно удалили огромное число людей.,1,0,same_target_duplicate,0
+Ни одного студента не было на лекции.,1,0,same_target_duplicate,1
+Не нужно мне твоих советов.,1,0,same_target_duplicate,1
+Он отрицает существование каких бы то ни было планов на этот счет.,1,0,same_target_duplicate,0
+На самом деле нынешний мир под управлением США абсолютно лишен каких-либо моральных предрассудков.,1,0,same_target_duplicate,0
+"Только какой-то негоциант, живший рядом с приютом и потерявший счет деньгам, ежегодно при получении из-за границы транспорта с фруктами присылал в приют ящик апельсин.",0,Morphology,diff_target_confirmed,2
+Его левая рука судорожно хрустела бумажками.,1,0,same_target_duplicate,1
+Хорошо бы на этот раз он не выиграл.,1,0,same_target_duplicate,1
+Вместе с другой 25-этажной башней будет построено 821 квартира.,0,Syntax,same_target_duplicate,0
+Он отдал ему все свое состояние.,1,0,same_target_duplicate,1
+Я не разбивал чашки.,1,0,same_target_duplicate,0
+"Студентам, самим знатокам эскимосского языка, не удалось разобрать здесь ни слова.",1,0,same_target_duplicate,0
+Сведений о продвижении войск не поступало.,1,0,same_target_duplicate,0
+Его точка зрения на этот вопрос была высказана автором в других работах.,0,Syntax,diff_target_confirmed,3
+Ее сестра звалась Татьяна.,1,0,same_target_duplicate,0
+"Он пошел к брату, чтобы узнать последние новости.",1,0,same_target_duplicate,1
+Молва приписывает смерть его действию яда.,1,0,same_target_duplicate,0
+Почему ж в синтаксическом отношении не хотят видеть ничего сходного между формою именительного падежа и формами косвенных падежов?,0,Morphology,diff_target_confirmed,2
+"Албанские экстремисты стремятся уничтожить всё, что в Косово и Метохии имеет какие-либо сербские признаки.",1,0,same_target_duplicate,0
+Вчера этим прибором пользовались.,1,0,same_target_duplicate,1
+Я дочитал вашу рукопись.,1,0,same_target_duplicate,1
+Он нашел по крайней мере двух желающих?,0,Semantics,diff_target_confirmed,3
+Я с трудом был целый день дома.,0,Semantics,diff_target_confirmed,3
+"Боюсь, что мне не хватит на это времени.",1,0,same_target_duplicate,1
+Ничего этого я не знал.,1,0,same_target_duplicate,1
+Полковник отдал майору приказ солдатам выдвигаться на позицию.,1,0,same_target_duplicate,1
+Каждую субботу она ходит в баню.,1,0,same_target_duplicate,1
+Я не вижу карандаши.,1,0,same_target_duplicate,1
+"Согласно легенде, кастильский вельможа дон Руис Гонсало де Толедо, граф Оргас пожертвовал этой церкви, в которой он выразил желание быть погребенным, большие сокровища.",1,0,same_target_duplicate,1
+Бонапарт первым приказал артиллеристам открыть огонь.,1,0,same_target_duplicate,0
+А вы не могли бы сыграть ноктюрн?,1,0,same_target_duplicate,0
+Солдаты получили от майора приказ полковника выдвигаться на позицию.,1,0,same_target_duplicate,1
+Врач был ровно в шесть.,1,0,same_target_duplicate,0
+Я взяла десять рублей.,1,0,same_target_duplicate,1
+"Этот продукт был одним из первых синтетических каучуков в истории, известен как неопрен.",1,0,same_target_duplicate,0
+Ты тогда вешал карту?,1,0,same_target_duplicate,0
+После такого припадка он получает способность логически мыслить только через несколько дней.,1,0,same_target_duplicate,0
+Он принял на себя расследование этого запутанного дела.,1,0,same_target_duplicate,0
+"Это такой человек, его ни за что не переспоришь.",1,0,same_target_duplicate,1
+"Это ее решение, ее злая воля заставляют Эди стоять тут под дверью больной и сумасшедший.",0,Syntax,diff_target_confirmed,2
+Ее матери много горя пришлос пережить.,1,0,same_target_duplicate,1
+"Я надеюсь на Машу больше, чем на Петю.",1,0,same_target_duplicate,0
+"Люди, и без того жившие на грани нищеты, оказались лишены каких бы то ни было средств к существованию.",1,0,same_target_duplicate,0
+"Он рассмотрел случаи, являющиеся особенно трудными.",1,0,same_target_duplicate,0
+Записку и веточку она положила около него.,1,0,same_target_duplicate,0
+"Нет, моего брата нет дома.",1,0,same_target_duplicate,1
+Мне во что бы то ни стало нужно получить это кольцо.,1,0,same_target_duplicate,0
+Вскоре он не понял свою ошибку.,0,Semantics,diff_target_confirmed,3
+Лена просила мужа не ходить ночью одного.,1,0,same_target_duplicate,0
+Все это не делалось не потому что кто-нибудь желал зла Левину.,1,0,same_target_duplicate,0
+Эту передачу больше не повторяли.,1,0,same_target_duplicate,0
+Бутылка не в холодильнике.,1,0,same_target_duplicate,0
+Были получены два извещения.,1,0,same_target_duplicate,0
+"Я показал этот текст студентам, обоим сведущим в эскимосском языке.",0,Syntax,same_target_duplicate,1
+"Она приняла его взгляды, привычки, вкусы.",1,0,same_target_duplicate,0
+Он не держал книгу в руках и минуты.,1,0,same_target_duplicate,0
+"На меже, около дороги, стоял трактор.",1,0,same_target_duplicate,0
+"Вы никогда не были такими, как он.",1,0,same_target_duplicate,0
+Он отрицает существование всех планов на этот счет.,0,Semantics,diff_target_confirmed,2
+Спортсмен еще не отдыхал.,1,0,same_target_duplicate,1
+Здесь какие-либо эмоции неуместны.,1,0,same_target_duplicate,0
+Постарайся увидеть вон ту звездочку над самой горой.,1,0,diff_target_confirmed,2
+Сильно этот поезд не опоздал.,1,0,same_target_duplicate,1
+Разве есть смысл что-нибудь менять?,1,0,same_target_duplicate,0
+"Журналистка была приглашена писателем, чтобы дать ей интервью.",0,Syntax,same_target_duplicate,0
+Он быстро научился решать эти задачи.,1,0,same_target_duplicate,1
+Я велела Верочке идти домой.,1,0,same_target_duplicate,0
+Никаких российских самолетов воздушное пространство Грузии не нарушало.,0,Semantics,diff_target_confirmed,2
+Преподаватель поощрял студентов формулировать задачи самим.,1,0,same_target_duplicate,0
+Никто не был дома.,0,Semantics,diff_target_confirmed,3
+В озере никакая утка не плавала.,1,0,same_target_duplicate,0
+Абсолютно недопустимо решение каких бы то ни было проблем с помощью террора.,1,0,same_target_duplicate,0
+Всю следующую неделю я буду сидеть дома.,1,0,same_target_duplicate,1
+Я сейчас писал письмо.,1,0,same_target_duplicate,1
+Мой дом не стоит на горе.,1,0,same_target_duplicate,1
+Он ищет какую-нибудь новую секретаршу.,0,Semantics,diff_target_confirmed,3
+"Эта гипотеза, как Бор рассказывал, была предложена Дираком в 1930 г.",1,0,same_target_duplicate,0
+Около сторожки дорога поворачивает.,1,0,same_target_duplicate,0
+"Всего в 1000 метрах от порта, в 2 км от центра города и в 20 минутах езды от аэропорта Манисеса и Конвенционного центра.",1,0,diff_target_confirmed,2
+"Наша инновация ориентирована на предоставление большей мощности и производительности с меньшим количеством дисков, не теряя производительности или доступности данных.",0,Syntax,same_target_duplicate,0
+"Мы отправили на эту конференцию наши доклады, потому что она для нас была очень важна.",1,0,same_target_duplicate,1
+"Если ты воспользуешься каким-нибудь из этих средств, ты мгновенно поправишься.",1,0,same_target_duplicate,0
+Разговоры нельзя принимать за дела.,1,0,same_target_duplicate,0
+"Нельзя не любить кого-то, кто обладает такими достоинствами.",1,0,same_target_duplicate,0
+"Первая акция ""Отряда милосердия"" по освобождению животных прошла в тот же период времени.",1,0,same_target_duplicate,0
+Его убили около «Трех утопленников».,1,0,same_target_duplicate,0
+У него в отделе хорошие биохимики.,1,0,same_target_duplicate,1
+Иванова на лекции на заседании нет.,1,0,same_target_duplicate,0
+"Если в тело человека проник всякий микроб, организм выставляет на защиту всю свою систему иммунитета.",0,Semantics,diff_target_confirmed,2
+Ее лицо приняло печальное выражение.,1,0,same_target_duplicate,1
+Беженцы гибнут в горах.,1,0,same_target_duplicate,0
+"Все были в ужасе от того, что может произойти, если испанцы вторгнуться.",1,0,same_target_duplicate,0
+"Решая какую-нибудь частную задачу, надо думать о языке в целом.",1,0,same_target_duplicate,0
+"Я не был в зале, когда выключили свет.",1,0,same_target_duplicate,0
+Я не могла тогда сказать ему ничего определенного.,1,0,same_target_duplicate,1
+Через два дня меня уже не будет в Москве.,1,0,same_target_duplicate,1
+Автобус не должен отправиться ночью.,0,Semantics,diff_target_confirmed,3
+Вчера мне не дали это письмо.,1,0,same_target_duplicate,1
+Иван оставил надежду встретиться с тобой самому.,1,0,same_target_duplicate,1
+Выстраивать на столь дрянном фундаменте какие-либо имперские конструкции крайне опрометчиво.,1,0,same_target_duplicate,0
+"Помогай любому, какое мне дело.",0,Semantics,diff_target_confirmed,2
+Все утро он был раздражен.,1,0,diff_target_confirmed,3
+Он подошел рядом со мной.,0,Semantics,diff_target_confirmed,3
+"Вася сказал, что он купил мне одну книгу.",1,0,same_target_duplicate,1
+Поговори хоть с кем-нибудь из них.,1,0,same_target_duplicate,0
+Есть о ком думать!,1,0,same_target_duplicate,0
+Специалисты связывают понижение курса и падение индексов.,1,0,same_target_duplicate,0
+Маму не огорчила Ванина двойка.,1,0,same_target_duplicate,0
+В таких партиях он почти не проигрывает.,1,0,same_target_duplicate,0
+"Это были студенты, оба сведущие в эскимосском языке.",1,0,same_target_duplicate,0
+Отменены какие-либо телесные наказания.,0,Semantics,diff_target_confirmed,2
+До сих по бабушка любила его без памяти.,1,0,same_target_duplicate,2
+"На спектакль ли Иван пришел, несмотря на головную боль?",1,0,same_target_duplicate,0
+Я встретил ее здоровой.,1,0,same_target_duplicate,0
+Парк тогда окружал усадьбу?,1,0,same_target_duplicate,0
+Вдалеке послышалась песнь соловья.,1,0,same_target_duplicate,0
+В эту минуту она его ненавидела.,1,0,same_target_duplicate,0
+В Лондон Герцен приехал с семьей.,1,0,same_target_duplicate,0
+Она дала ему свое сердце.,0,Semantics,diff_target_confirmed,3
+Я привык разговаривать не в таком тоне.,1,0,same_target_duplicate,0
+Пелагея садится невдалеке на припеке.,0,Semantics,same_target_duplicate,1
+"Вчера Миша купили книгу, а Коля компакт-диск.",0,Syntax,diff_target_confirmed,2
+Сейсмограф регистрирует любое колебание земной коры.,1,0,same_target_duplicate,0
+С каждого дерева упала груша.,1,0,same_target_duplicate,0
+Ее усталые глаза смотрели вдаль.,1,0,same_target_duplicate,1
+"Христофоров, явившийся в ложу первым и одиноко сидевший за ее красно-бархатного барьером, чувствовал себя затерянным в огромной, разодетой толпе.",0,Semantics,diff_target_confirmed,2
+Я воспринял его как военного.,0,Semantics,diff_target_confirmed,2
+В коридоре стояли некоторые.,0,Semantics,diff_target_confirmed,2
+Перемен в технической политике фирмы не наступило.,1,0,same_target_duplicate,0
+Левая рука его сжимала хрустящую бумажку.,1,0,same_target_duplicate,1
+На поверку вся теория оказывается полной чепухой.,1,0,same_target_duplicate,0
+"Скажите ей, кто вы такой!",1,0,same_target_duplicate,0
+В ее библиотеке есть интересные книги.,1,0,same_target_duplicate,1

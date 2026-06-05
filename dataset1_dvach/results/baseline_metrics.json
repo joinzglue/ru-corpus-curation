@@ -1,0 +1,10 @@
+{
+  "model_name": "DeepPavlov/rubert-base-cased",
+  "test_f1_macro": 0.9353,
+  "test_accuracy": 0.9355,
+  "num_epochs": 4,
+  "batch_size": 32,
+  "learning_rate": 2e-05,
+  "max_length": 128,
+  "seed": 42
+}

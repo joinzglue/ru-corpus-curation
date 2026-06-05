@@ -1,0 +1,16 @@
+{
+  "model_name": "DeepPavlov/rubert-base-cased",
+  "dataset": "RussianNLP/RuCoLA",
+  "test_f1_macro": 0.6635,
+  "test_accuracy": 0.7814,
+  "num_epochs": 3,
+  "batch_size": 32,
+  "learning_rate": 2e-05,
+  "max_length": 256,
+  "seed": 42,
+  "train_size": 8524,
+  "per_class_f1": {
+    "unacceptable": 0.4644,
+    "acceptable": 0.8627
+  }
+}

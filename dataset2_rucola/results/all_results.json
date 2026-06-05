@@ -1,0 +1,69 @@
+{
+  "dataset": "Rucola",
+  "total_train": 8524,
+  "baseline": {
+    "f1_macro": 0.6635,
+    "accuracy": 0.7814,
+    "train_size": 8524
+  },
+  "cleanlab": {
+    "f1_macro": 0.6262,
+    "accuracy": 0.7486,
+    "train_size": 6957
+  },
+  "random_cleanlab": {
+    "f1_macro": 0.6096,
+    "accuracy": 0.732,
+    "train_size": 6957
+  },
+  "datamaps": {
+    "f1_macro": 0.6297,
+    "accuracy": 0.7786,
+    "train_size": 7290
+  },
+  "random_datamaps": {
+    "f1_macro": 0.6138,
+    "accuracy": 0.7702,
+    "train_size": 7290
+  },
+  "ds2": {
+    "f1_macro": 0.634,
+    "accuracy": 0.7692,
+    "train_size": 5966
+  },
+  "random_ds2": {
+    "f1_macro": 0.5587,
+    "accuracy": 0.7258,
+    "train_size": 5966
+  },
+  "hybrid_intersection": {
+    "f1_macro": 0.626,
+    "accuracy": 0.7711, 
+    "train_size": 7396
+  },
+  "random_intersection": {
+    "f1_macro": 0.6037,
+    "accuracy": 0.7683,
+    "train_size": 7396
+  },
+  "hybrid_union": {
+    "f1_macro": 0.6131,
+    "accuracy": 0.7561, 
+    "train_size": 4583
+  },
+  "random_union": {
+    "f1_macro": 0.5702,
+    "accuracy": 0.7523,
+    "train_size": 4583
+  },
+  "VCS(Verified Cosine Similarity)": {
+    "f1_macro": 0.6515,
+    "accuracy": 0.7777,
+    "train_size": 7532
+  },
+  "random_VCS(Verified Cosine Similarity)": {
+    "f1_macro": 0.6296,
+    "accuracy": 0.7720,
+    "train_size": 7532
+  }
+}

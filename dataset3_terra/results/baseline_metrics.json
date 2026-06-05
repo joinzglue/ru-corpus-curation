@@ -1,0 +1,16 @@
+{
+  "model_name": "DeepPavlov/rubert-base-cased",
+  "dataset": "TERRa (RussianNLP/russian_super_glue)",
+  "test_f1_macro": 0.6444,
+  "test_accuracy": 0.6451,
+  "num_epochs": 4,
+  "batch_size": 32,
+  "learning_rate": 2e-05,
+  "max_length": 256,
+  "seed": 42,
+  "train_size": 2337,
+  "per_class_f1": {
+    "entailment": 0.6286,
+    "not_entailment": 0.6601
+  }
+}

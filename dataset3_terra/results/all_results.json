@@ -1,0 +1,69 @@
+{
+  "dataset": "terra",
+  "total_train": 2337,
+  "baseline": {
+    "f1_macro": 0.6444,
+    "accuracy": 0.6451,
+    "train_size": 2337
+  },
+  "cleanlab": {
+    "f1_macro": 0.6578,
+    "accuracy": 0.6587,
+    "train_size": 1508
+  },
+  "random_cleanlab": {
+    "f1_macro": 0.523,
+    "accuracy": 0.529,
+    "train_size": 1508
+  },
+  "datamaps": {
+    "f1_macro": 0.6441,
+    "accuracy": 0.6451,
+    "train_size": 2081
+  },
+  "random_datamaps": {
+    "f1_macro": 0.5851,
+    "accuracy": 0.587,
+    "train_size": 2081
+  },
+  "ds2": {
+    "f1_macro": 0.5486,
+    "accuracy": 0.5597,
+    "train_size": 1635
+  },
+  "random_ds2": {
+    "f1_macro": 0.5225,
+    "accuracy": 0.5358,
+    "train_size": 1635
+  },
+  "hybrid_intersection": {
+    "f1_macro": 0.6468,
+    "accuracy": 0.6485,
+    "train_size": 1953
+  },
+  "random_intersection": {
+    "f1_macro": 0.5858,
+    "accuracy": 0.5904,
+    "train_size": 1953
+  },
+  "hybrid_union": {
+    "f1_macro": 0.6093,
+    "accuracy": 0.6109,
+    "train_size": 995
+  },
+  "random_union": {
+    "f1_macro": 0.5415,
+    "accuracy": 0.57,
+    "train_size": 995
+  },
+  "VCS(Verified Cosine Similarity)": {
+    "f1_macro": 0.6062,
+    "accuracy": 0.6041,
+    "train_size": 1829
+  },
+  "random_VCS(Verified Cosine Similarity)": {
+    "f1_macro": 0.5730,
+    "accuracy": 0.5802,
+    "train_size": 1829
+  }
+}
